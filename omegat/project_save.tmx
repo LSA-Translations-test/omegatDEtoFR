@@ -4,6 +4,30 @@
   <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.2.0_0_10666" segtype="sentence" srclang="de"/>
   <body>
 <!-- Default translations -->
+    <tu>
+      <tuv lang="de">
+        <seg>Berufe</seg>
+      </tuv>
+      <tuv lang="fr" changeid="PROSPERIO" changedate="20221121T072702Z" creationid="PROSPERIO" creationdate="20221121T072702Z">
+        <seg>Emplois</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Ein &lt;g1&gt;Lehrer&lt;/g1&gt; unterrichtet Schüler und bringt ihnen verschiedene Dinge bei.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="PROSPERIO" changedate="20221121T072816Z" creationid="PROSPERIO" creationdate="20221121T072816Z">
+        <seg>un &lt;g1&gt;Enseignant&lt;/g1&gt; enseigne au élèves et leur apprend différentes choses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>Es gibt sehr viele verschiedene Berufe.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="PROSPERIO" changedate="20221121T072727Z" creationid="PROSPERIO" creationdate="20221121T072727Z">
+        <seg>Il existe beaucoup d'emplois différents.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
