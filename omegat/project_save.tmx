@@ -36,6 +36,14 @@
         <seg>Il existe beaucoup d'emplois différents.</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="de">
+        <seg>In einer Volksschule lehren Lehrer den Kindern das Lesen und Schreiben.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="PROSPERIO" changedate="20221206T085212Z" creationid="PROSPERIO" creationdate="20221206T085212Z">
+        <seg>Dans une école primaire, les enseignants apprennent aux enfants à lire et à écrire.</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>
