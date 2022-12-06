@@ -22,6 +22,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>Ein Lehrer unterrichtet Schüler und bringt ihnen verschiedene Dinge bei.</seg>
+      </tuv>
+      <tuv lang="fr" changeid="PROSPERIO" changedate="20221206T085202Z" creationid="PROSPERIO" creationdate="20221206T085202Z">
+        <seg>un Enseignant enseigne au élèves et leur apprend différentes choses.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>Es gibt sehr viele verschiedene Berufe.</seg>
       </tuv>
       <tuv lang="fr" changeid="PROSPERIO" changedate="20221121T072727Z" creationid="PROSPERIO" creationdate="20221121T072727Z">
