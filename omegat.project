@@ -26,6 +26,10 @@
             <repository type="git" url="https://github.com/LSA-Translations-test/sources.git">
                 <mapping local="source/" repository="DE_sources/"/>
             </repository>
+            <repository type="git" url="https://github.com/LSA-Translations-test/omegatDEtoFR.git">
+            <mapping local="/" repository="/"/>
+            </repository>
+
         </repositories>
     </project>
 </omegat>
