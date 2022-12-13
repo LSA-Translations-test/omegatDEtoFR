@@ -27,7 +27,7 @@
                 <mapping local="source/" repository="DE_sources/"/>
             </repository>
             <repository type="git" url="https://github.com/LSA-Translations-test/omegatDEtoFR.git">
-                <excludes>source/</excludes>
+                <excludes> **/excludedfolder/**</excludes>
                 <mapping local="/" repository="/"/>
             </repository>
 
