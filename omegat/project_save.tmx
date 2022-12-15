@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="de">
+        <seg>In der Schule</seg>
+      </tuv>
+      <tuv lang="fr" changeid="DENECKERC" changedate="20221215T152722Z" creationid="DENECKERC" creationdate="20221215T152722Z">
+        <seg>Dans l'école</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="de">
         <seg>In einer Volksschule lehren Lehrer den Kindern das Lesen und Schreiben.</seg>
       </tuv>
       <tuv lang="fr" changeid="PROSPERIO" changedate="20221206T085212Z" creationid="PROSPERIO" creationdate="20221206T085212Z">
